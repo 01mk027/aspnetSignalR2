@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maksopusSignalRSecond", "maksopusSignalRSecond.csproj", "{CFE3CB78-6ACE-44F0-88B8-C6DFF7FF32C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE3CB78-6ACE-44F0-88B8-C6DFF7FF32C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE3CB78-6ACE-44F0-88B8-C6DFF7FF32C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE3CB78-6ACE-44F0-88B8-C6DFF7FF32C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE3CB78-6ACE-44F0-88B8-C6DFF7FF32C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284D23A3-CCA9-4256-B8B3-AD341DBC520D}
+	EndGlobalSection
+EndGlobal
